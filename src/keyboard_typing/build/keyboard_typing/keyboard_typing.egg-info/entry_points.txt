@@ -1,0 +1,3 @@
+[console_scripts]
+autonomous_typing = keyboard_typing.autonomous_typing:main
+
