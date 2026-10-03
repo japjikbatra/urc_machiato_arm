@@ -1,0 +1,15 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/constants/constants.egg-info/PKG-INFO
+../../build/constants/constants.egg-info/SOURCES.txt
+../../build/constants/constants.egg-info/dependency_links.txt
+../../build/constants/constants.egg-info/requires.txt
+../../build/constants/constants.egg-info/top_level.txt
+../../build/constants/constants.egg-info/zip-safe
+constants/__init__.py
+resource/constants
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

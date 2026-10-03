@@ -1,0 +1,22 @@
+[0.920s] Invoking command in '/home/ubuntu/urc_machiato_arm/src/keyboard_typing': PYTHONPATH=/home/ubuntu/urc_machiato_arm/build/keyboard_typing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/keyboard_typing build --build-base /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build install --record /home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log --install-scripts $base/lib/keyboard_typing --single-version-externally-managed install_data
+[1.052s] running egg_info
+[1.053s] writing ../../build/keyboard_typing/keyboard_typing.egg-info/PKG-INFO
+[1.053s] writing dependency_links to ../../build/keyboard_typing/keyboard_typing.egg-info/dependency_links.txt
+[1.053s] writing entry points to ../../build/keyboard_typing/keyboard_typing.egg-info/entry_points.txt
+[1.053s] writing requirements to ../../build/keyboard_typing/keyboard_typing.egg-info/requires.txt
+[1.054s] writing top-level names to ../../build/keyboard_typing/keyboard_typing.egg-info/top_level.txt
+[1.055s] reading manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+[1.056s] writing manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+[1.056s] running build
+[1.056s] running build_py
+[1.057s] running install
+[1.057s] running install_lib
+[1.058s] running install_data
+[1.058s] running install_egg_info
+[1.058s] removing '/home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing-0.0.0-py3.10.egg-info' (and everything under it)
+[1.059s] Copying ../../build/keyboard_typing/keyboard_typing.egg-info to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing-0.0.0-py3.10.egg-info
+[1.059s] running install_scripts
+[1.072s] Installing autonomous_typing script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+[1.072s] Installing camera_node script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+[1.073s] writing list of installed files to '/home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log'
+[1.097s] Invoked command in '/home/ubuntu/urc_machiato_arm/src/keyboard_typing' returned '0': PYTHONPATH=/home/ubuntu/urc_machiato_arm/build/keyboard_typing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/keyboard_typing build --build-base /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build install --record /home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log --install-scripts $base/lib/keyboard_typing --single-version-externally-managed install_data

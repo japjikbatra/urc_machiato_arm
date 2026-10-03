@@ -1,0 +1,59 @@
+running egg_info
+creating ../../build/keyboard_typing/keyboard_typing.egg-info
+writing ../../build/keyboard_typing/keyboard_typing.egg-info/PKG-INFO
+writing dependency_links to ../../build/keyboard_typing/keyboard_typing.egg-info/dependency_links.txt
+writing entry points to ../../build/keyboard_typing/keyboard_typing.egg-info/entry_points.txt
+writing requirements to ../../build/keyboard_typing/keyboard_typing.egg-info/requires.txt
+writing top-level names to ../../build/keyboard_typing/keyboard_typing.egg-info/top_level.txt
+writing manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+reading manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+writing manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build
+creating /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib
+creating /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/template_matching.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/__init__.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/autonomous_typing.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/camera_node.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/aruco_alignment.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/corner_detection.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/sift_detection.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+copying keyboard_typing/typing_state.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+running install
+running install_lib
+creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/template_matching.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/__init__.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/autonomous_typing.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/camera_node.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/aruco_alignment.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/corner_detection.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/sift_detection.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/typing_state.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/template_matching.py to template_matching.cpython-310.pyc
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/autonomous_typing.py to autonomous_typing.cpython-310.pyc
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/camera_node.py to camera_node.cpython-310.pyc
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/aruco_alignment.py to aruco_alignment.cpython-310.pyc
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/corner_detection.py to corner_detection.cpython-310.pyc
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/sift_detection.py to sift_detection.cpython-310.pyc
+byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/typing_state.py to typing_state.cpython-310.pyc
+running install_data
+creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index
+creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index/resource_index
+creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index/resource_index/packages
+copying resource/keyboard_typing -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing
+creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/launch
+copying launch/launch.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/launch
+creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/resource
+copying resource/full_keyboard_template_image.jpg -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/resource
+copying resource/template_image.jpg -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/resource
+running install_egg_info
+Copying ../../build/keyboard_typing/keyboard_typing.egg-info to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing-0.0.0-py3.10.egg-info
+running install_scripts
+Installing autonomous_typing script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+Installing camera_node script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+writing list of installed files to '/home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log'

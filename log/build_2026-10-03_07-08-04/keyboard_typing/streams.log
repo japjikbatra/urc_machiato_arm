@@ -1,0 +1,61 @@
+[0.826s] Invoking command in '/home/ubuntu/urc_machiato_arm/src/keyboard_typing': PYTHONPATH=/home/ubuntu/urc_machiato_arm/build/keyboard_typing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/keyboard_typing build --build-base /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build install --record /home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log --install-scripts $base/lib/keyboard_typing --single-version-externally-managed install_data
+[1.000s] running egg_info
+[1.000s] creating ../../build/keyboard_typing/keyboard_typing.egg-info
+[1.000s] writing ../../build/keyboard_typing/keyboard_typing.egg-info/PKG-INFO
+[1.001s] writing dependency_links to ../../build/keyboard_typing/keyboard_typing.egg-info/dependency_links.txt
+[1.001s] writing entry points to ../../build/keyboard_typing/keyboard_typing.egg-info/entry_points.txt
+[1.001s] writing requirements to ../../build/keyboard_typing/keyboard_typing.egg-info/requires.txt
+[1.001s] writing top-level names to ../../build/keyboard_typing/keyboard_typing.egg-info/top_level.txt
+[1.001s] writing manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+[1.002s] reading manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+[1.002s] writing manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+[1.003s] running build
+[1.003s] running build_py
+[1.003s] creating /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build
+[1.003s] creating /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib
+[1.003s] creating /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.003s] copying keyboard_typing/template_matching.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.003s] copying keyboard_typing/__init__.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.003s] copying keyboard_typing/autonomous_typing.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.004s] copying keyboard_typing/camera_node.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.004s] copying keyboard_typing/aruco_alignment.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.004s] copying keyboard_typing/corner_detection.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.004s] copying keyboard_typing/sift_detection.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.004s] copying keyboard_typing/typing_state.py -> /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing
+[1.004s] running install
+[1.005s] running install_lib
+[1.005s] creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.005s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/template_matching.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.005s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/__init__.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.005s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/autonomous_typing.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.006s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/camera_node.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.006s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/aruco_alignment.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.006s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/corner_detection.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.006s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/sift_detection.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.006s] copying /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build/lib/keyboard_typing/typing_state.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing
+[1.006s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/template_matching.py to template_matching.cpython-310.pyc
+[1.006s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/__init__.py to __init__.cpython-310.pyc
+[1.006s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/autonomous_typing.py to autonomous_typing.cpython-310.pyc
+[1.008s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/camera_node.py to camera_node.cpython-310.pyc
+[1.009s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/aruco_alignment.py to aruco_alignment.cpython-310.pyc
+[1.009s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/corner_detection.py to corner_detection.cpython-310.pyc
+[1.009s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/sift_detection.py to sift_detection.cpython-310.pyc
+[1.009s] byte-compiling /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing/typing_state.py to typing_state.cpython-310.pyc
+[1.009s] running install_data
+[1.009s] creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index
+[1.010s] creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index/resource_index
+[1.010s] creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index/resource_index/packages
+[1.010s] copying resource/keyboard_typing -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/ament_index/resource_index/packages
+[1.010s] copying package.xml -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing
+[1.010s] creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/launch
+[1.011s] copying launch/launch.py -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/launch
+[1.011s] creating /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/resource
+[1.011s] copying resource/full_keyboard_template_image.jpg -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/resource
+[1.032s] copying resource/template_image.jpg -> /home/ubuntu/urc_machiato_arm/install/keyboard_typing/share/keyboard_typing/resource
+[1.032s] running install_egg_info
+[1.032s] Copying ../../build/keyboard_typing/keyboard_typing.egg-info to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing-0.0.0-py3.10.egg-info
+[1.033s] running install_scripts
+[1.048s] Installing autonomous_typing script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+[1.048s] Installing camera_node script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+[1.048s] writing list of installed files to '/home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log'
+[1.066s] Invoked command in '/home/ubuntu/urc_machiato_arm/src/keyboard_typing' returned '0': PYTHONPATH=/home/ubuntu/urc_machiato_arm/build/keyboard_typing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/keyboard_typing build --build-base /home/ubuntu/urc_machiato_arm/build/keyboard_typing/build install --record /home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log --install-scripts $base/lib/keyboard_typing --single-version-externally-managed install_data

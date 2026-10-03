@@ -1,0 +1,4 @@
+[console_scripts]
+autonomous_typing = keyboard_typing.autonomous_typing:main
+camera_node = keyboard_typing.autonomous_typing:main
+

@@ -1,0 +1,33 @@
+[0.923s] Invoking command in '/home/ubuntu/urc_machiato_arm/src/constants': PYTHONPATH=/home/ubuntu/urc_machiato_arm/build/constants/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/urc_machiato_arm/install/constants/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/constants build --build-base /home/ubuntu/urc_machiato_arm/build/constants/build install --record /home/ubuntu/urc_machiato_arm/build/constants/install.log --install-scripts $base/lib/constants --single-version-externally-managed install_data
+[1.058s] running egg_info
+[1.059s] creating ../../build/constants/constants.egg-info
+[1.059s] writing ../../build/constants/constants.egg-info/PKG-INFO
+[1.059s] writing dependency_links to ../../build/constants/constants.egg-info/dependency_links.txt
+[1.060s] writing requirements to ../../build/constants/constants.egg-info/requires.txt
+[1.060s] writing top-level names to ../../build/constants/constants.egg-info/top_level.txt
+[1.060s] writing manifest file '../../build/constants/constants.egg-info/SOURCES.txt'
+[1.060s] reading manifest file '../../build/constants/constants.egg-info/SOURCES.txt'
+[1.060s] adding license file 'LICENSE'
+[1.061s] writing manifest file '../../build/constants/constants.egg-info/SOURCES.txt'
+[1.061s] running build
+[1.061s] running build_py
+[1.061s] creating /home/ubuntu/urc_machiato_arm/build/constants/build
+[1.061s] creating /home/ubuntu/urc_machiato_arm/build/constants/build/lib
+[1.061s] creating /home/ubuntu/urc_machiato_arm/build/constants/build/lib/constants
+[1.061s] copying constants/__init__.py -> /home/ubuntu/urc_machiato_arm/build/constants/build/lib/constants
+[1.061s] running install
+[1.061s] running install_lib
+[1.062s] creating /home/ubuntu/urc_machiato_arm/install/constants/lib/python3.10/site-packages/constants
+[1.062s] copying /home/ubuntu/urc_machiato_arm/build/constants/build/lib/constants/__init__.py -> /home/ubuntu/urc_machiato_arm/install/constants/lib/python3.10/site-packages/constants
+[1.062s] byte-compiling /home/ubuntu/urc_machiato_arm/install/constants/lib/python3.10/site-packages/constants/__init__.py to __init__.cpython-310.pyc
+[1.062s] running install_data
+[1.062s] creating /home/ubuntu/urc_machiato_arm/install/constants/share/ament_index
+[1.062s] creating /home/ubuntu/urc_machiato_arm/install/constants/share/ament_index/resource_index
+[1.063s] creating /home/ubuntu/urc_machiato_arm/install/constants/share/ament_index/resource_index/packages
+[1.063s] copying resource/constants -> /home/ubuntu/urc_machiato_arm/install/constants/share/ament_index/resource_index/packages
+[1.063s] copying package.xml -> /home/ubuntu/urc_machiato_arm/install/constants/share/constants
+[1.063s] running install_egg_info
+[1.063s] Copying ../../build/constants/constants.egg-info to /home/ubuntu/urc_machiato_arm/install/constants/lib/python3.10/site-packages/constants-0.0.0-py3.10.egg-info
+[1.064s] running install_scripts
+[1.077s] writing list of installed files to '/home/ubuntu/urc_machiato_arm/build/constants/install.log'
+[1.092s] Invoked command in '/home/ubuntu/urc_machiato_arm/src/constants' returned '0': PYTHONPATH=/home/ubuntu/urc_machiato_arm/build/constants/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/urc_machiato_arm/install/constants/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/constants build --build-base /home/ubuntu/urc_machiato_arm/build/constants/build install --record /home/ubuntu/urc_machiato_arm/build/constants/install.log --install-scripts $base/lib/constants --single-version-externally-managed install_data
