@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/keyboard_typing/keyboard_typing.egg-info/PKG-INFO
+writing dependency_links to ../../build/keyboard_typing/keyboard_typing.egg-info/dependency_links.txt
+writing entry points to ../../build/keyboard_typing/keyboard_typing.egg-info/entry_points.txt
+writing requirements to ../../build/keyboard_typing/keyboard_typing.egg-info/requires.txt
+writing top-level names to ../../build/keyboard_typing/keyboard_typing.egg-info/top_level.txt
+reading manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+writing manifest file '../../build/keyboard_typing/keyboard_typing.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/keyboard_typing/keyboard_typing.egg-info to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/python3.10/site-packages/keyboard_typing-0.0.0-py3.10.egg-info
+running install_scripts
+Installing autonomous_typing script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+Installing camera_node script to /home/ubuntu/urc_machiato_arm/install/keyboard_typing/lib/keyboard_typing
+writing list of installed files to '/home/ubuntu/urc_machiato_arm/build/keyboard_typing/install.log'
